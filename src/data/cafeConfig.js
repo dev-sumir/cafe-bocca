@@ -16,9 +16,9 @@ export const CAFE_CONFIG = {
     instagramHandle: "@cafebocca.india",
     instagramUrl: "https://www.instagram.com/cafebocca.india/",
     // Note for client: Replace with your official WhatsApp business phone number
-    phone: "+91 98765 43210",
-    phoneDisplay: "+91 98765 43210",
-    whatsappNumber: "919876543210", // Clean number without '+' for wa.me links
+    phone: "+91 96969 30369",
+    phoneDisplay: "+91 96969 30369",
+    whatsappNumber: "919696930369", // Clean number without '+' for wa.me links
     address: {
       line1: "13 GF, Pakhowal Road",
       line2: "Sargodha Colony, Model Gram",

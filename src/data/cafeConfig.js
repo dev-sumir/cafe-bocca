@@ -66,7 +66,7 @@ export const CAFE_CONFIG = {
   ],
 
   heroScrubber: {
-    totalFrames: 240,
+    totalFrames: 250,
     fps: 24,
     framePath: (index) => `/assets/frames/frame_${String(index).padStart(4, "0")}.webp`,
     posterPath: "/assets/poster.webp",
